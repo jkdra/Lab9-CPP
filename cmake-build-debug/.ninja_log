@@ -1,0 +1,16 @@
+# ninja log v6
+3	391	1729732441698864840	CMakeFiles/Lab9.dir/main.cpp.o	3639f719d03de2bf
+2	473	1729732422751883758	CMakeFiles/Lab9.dir/printHeading.cpp.o	71d36ef7e9eed3fc
+281	325	1729732678323842648	new_target	f52c8ecaff6dac19
+391	434	1729732442086911689	Lab9	3027e05043d5d23e
+1	272	1729732678044202343	CMakeFiles/new_target.dir/main.cpp.o	f49dbef0d682abf9
+1	281	1729732678044565850	CMakeFiles/new_target.dir/printHeading.cpp.o	63a84f2a11d85374
+5	561	1729734993339808964	CMakeFiles/new_target.dir/printHeading.cpp.o	63a84f2a11d85374
+6	561	1729734993340044549	CMakeFiles/new_target.dir/functions.cpp.o	51241cd4e70c95a6
+5	564	1729734993339015458	CMakeFiles/new_target.dir/main.cpp.o	f49dbef0d682abf9
+5	379	1729735131531510403	CMakeFiles/new_target.dir/functions.cpp.o	51241cd4e70c95a6
+379	431	1729735131905142124	new_target	69752cce1c825c72
+12	589	1729735263664940133	CMakeFiles/new_target.dir/main.cpp.o	f49dbef0d682abf9
+589	697	1729735264242480321	new_target	69752cce1c825c72
+4	376	1729735287030867573	CMakeFiles/new_target.dir/main.cpp.o	f49dbef0d682abf9
+376	419	1729735287402227360	new_target	69752cce1c825c72
